@@ -8,3 +8,5 @@ print(a,b)
 
 
 print("its afternoon time")
+
+print("today is very sunny day")
