@@ -23,3 +23,5 @@ obj1=banking("Harshil",23,123456789, 3000)
 obj1.credit(4000)
 obj1.debit(5000)
 obj1.credit(4000)
+
+print("current bank amount")
